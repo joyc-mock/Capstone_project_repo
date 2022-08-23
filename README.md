@@ -1,3 +1,2 @@
-# Capstone_project_repo
-Loan Default Prediction Classification Project
-MIT Applied Data Science Program
+# MIT files
+This repo contains my Capstone Project and other projects/notebooks used during the program. 
