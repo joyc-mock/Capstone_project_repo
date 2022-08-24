@@ -1,2 +1,2 @@
 # MIT files
-This repo contains my Capstone Project and other projects/notebooks used during the program. 
+This repo contains some of my Capstone Project and other projects/notebooks used during the program. 
